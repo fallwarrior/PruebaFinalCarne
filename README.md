@@ -11,3 +11,14 @@ Utilizando el Programa ANACONDA usaremos Jupyter Notebook para la creación de n
 2.Obtención del clasificador predicciones
 ---
 ![1](https://i.pinimg.com/564x/a7/45/4e/a7454e87e65d9fd107dd78d8ab07c7dd.jpg)
+---
+3.matriz de confusión TRAIN
+---
+![](https://i.pinimg.com/564x/dc/15/00/dc1500969ab70a0b62660bd0032bcd01.jpg)
+---
+4.matriz de confusión TEST
+---
+![](https://i.pinimg.com/564x/05/5c/09/055c0943413296c497b5865a2a683073.jpg)
+---
+
+
