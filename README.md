@@ -20,5 +20,11 @@ Utilizando el Programa ANACONDA usaremos Jupyter Notebook para la creación de n
 ---
 ![](https://i.pinimg.com/564x/05/5c/09/055c0943413296c497b5865a2a683073.jpg)
 ---
+5. Preprocesado de imagenes
+---
+En está aprte implmenete varias maneras de codigo pero me slaina la s imagnes en negro
+---
+![](https://i.pinimg.com/564x/bc/1f/a3/bc1fa3467dedeb86c80c05aa53f59712.jpg)
+
 
 
