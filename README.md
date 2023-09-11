@@ -8,4 +8,4 @@ Utilizando el Programa ANACONDA usaremos Jupyter Notebook para la creación de n
 
 1.Repositorio de GitHubg que contiene el archivo train.ipynb que contiene el codigo realizado
 2.Obtención del clasificador predicciones
-(https://drive.google.com/file/d/1LRGJbEgdQfq6THXinenfOyBHTiK6iHRY/view?usp=sharing)
+(https://i.pinimg.com/564x/a7/45/4e/a7454e87e65d9fd107dd78d8ab07c7dd.jpg)
